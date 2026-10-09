@@ -1,0 +1,37 @@
+GDRE Tools v2.7.1
+Windows 10.0.26200, NVIDIA GeForce RTX 4060, vulkan
+WARNING: Could not find embedded pck in EXE, found pck file, loading from: C:/Users/jehug/OneDrive/Desktop/bag-night-shift-windows (1)/bag_night_shift_windows/fnafbag.pck
+   at: GDRESettings::sort_and_validate_pck_files (modules\gdsdecomp\utility\gdre_settings.cpp:612)
+Opening file: C:/Users/jehug/OneDrive/Desktop/bag-night-shift-windows (1)/bag_night_shift_windows/fnafbag.pck
+Loaded 1913 imported files
+WARNING: No valid assembly file 'Five Nights at Freddy-s- BLOOD & GEARS.dll' found in any directory in C:/Users/jehug/OneDrive/Desktop/bag-night-shift-windows (1)/bag_night_shift_windows and no C# files found, assuming it's not a C# project
+   at: GDRESettings::load_project_dotnet_assembly (modules\gdsdecomp\utility\gdre_settings.cpp:2943)
+Detected Engine Version: 4.7.0
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 3841 files, no errors detected!
+Extracted 3841 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     65
+Scripts not decompiled:                 0
+Imported resources for export session:  1913
+Successfully converted:                 1913
+Lossy:                                  1576
+Rewrote metadata:                       1793
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.7.0 to edit the project.
+
+*******************************************************************************
+
